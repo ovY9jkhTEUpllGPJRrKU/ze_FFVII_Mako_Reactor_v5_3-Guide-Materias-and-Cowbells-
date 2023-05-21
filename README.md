@@ -1,5 +1,62 @@
-## [Materias](#Materias)
-## [Cowbells (Extreme II)](#Cowbells)
+## <u>Topics</u>
+## - [Materias](#Materias)
+## - [Cowbells (Extreme II)](#Cowbells)
+
+# Materias
+<table>
+    <th>Materias</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+    <tr>
+        <td>Heal: Give HP</td>
+        <td>100 HP</td>
+        <td>150 HP</td>
+        <td>Invulnerability (6 secs) + 225 HP</td>
+    </tr>
+    <tr>
+        <td>Ice (6 secs): <b>Stops zombies</b></td>
+        <td>Small region</td>
+        <td>Big region</td>
+        <td>Bigger region</td>
+    </tr>
+    <tr>
+        <td>Fire</td>
+        <td>Small ignited cone</td>
+        <td>5 secs: Firewall follows you</td>
+        <td>Huge area</td>
+    </tr>
+    <tr>
+        <td>Wind</td>
+        <td>Slow zombies (barely push)</td>
+        <td>Push and bigger range</td>
+        <td>Pushing area around you</td>
+    </tr>
+    <tr>
+        <td>Electro: Leaves area that slows and damages zombies</td>
+        <td>1 charge</td>
+        <td>2 charges</td>
+        <td>3 charges</td>
+    </tr>
+    <tr>
+        <td>Earth: Creates a big rock that traps zombies</td>
+        <td>All the same</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Gravity: Sucks zombies in a hole (slows them a bit after)</td>
+        <td>All the same</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Ultima</td>
+        <td>Not in Normal</td>
+        <td>20 seconds -> Kill zombies or damage boss a lot</td>
+        <td>-</td>
+    </tr>
+</table>
 
 # Cowbells
 <table>
