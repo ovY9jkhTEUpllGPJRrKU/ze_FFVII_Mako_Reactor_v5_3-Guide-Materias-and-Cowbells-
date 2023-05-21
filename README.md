@@ -143,7 +143,7 @@
 <table>
     <th></th>
     <th>1: Brothel (2) and Above last spawn window (1)</th>
-    <th>2: Cinema(1)</th>
+    <th>2: Cinema (1)</th>
     <tr>
         <th> 1 to 4 (Brothel/Building and Cinema) </th>
         <td>
