@@ -8,53 +8,62 @@
     <th>Level 1</th>
     <th>Level 2</th>
     <th>Level 3</th>
+    <th>Boss Damage (Don't have to be near to damage boss)</th>
     <tr>
         <td>Heal: Give HP</td>
         <td>100 HP</td>
         <td>150 HP</td>
         <td>Invulnerability (6 secs) + 225 HP</td>
+        <td>-</td>
     </tr>
     <tr>
         <td>Ice (6 secs): <b>Stops zombies</b></td>
-        <td>Small region</td>
-        <td>Big region</td>
+        <td>Small region in front</td>
+        <td>Big region in front</td>
         <td>Bigger region</td>
+        <td>Delay Bahamuts attack by 5 secs</td>
     </tr>
     <tr>
-        <td>Fire</td>
-        <td>Small ignited cone</td>
+        <td>Fire: Ignite zombies</td>
+        <td>1 sec: In front of you</td>
         <td>5 secs: Firewall follows you</td>
-        <td>Huge area</td>
+        <td>5 secs: Huge area</td>
+        <td>175 HP</td>
     </tr>
     <tr>
         <td>Wind</td>
         <td>Small push</td>
         <td>Big push</td>
         <td>Tornado push</td>
+        <td>-</td>
     </tr>
     <tr>
         <td>Electro: Leaves area that slows and damages zombies</td>
         <td>1 charge</td>
         <td>2 charges</td>
         <td>3 charges</td>
+        <td>85 HP per charge</td>
     </tr>
     <tr>
-        <td>Earth: Creates a big rock that traps zombies</td>
+        <td>Earth (7 secs): Creates a big rock that traps zombies</td>
         <td>All the same</td>
         <td>-</td>
         <td>-</td>
+        <td>-</td>
     </tr>
     <tr>
-        <td>Gravity: Sucks zombies in a hole (slows them a bit after)</td>
+        <td>Gravity (7 secs?): Sucks zombies in a hole (slows them a bit after)</td>
         <td>All the same</td>
         <td>-</td>
         <td>-</td>
+        <td>135 HP</td>
     </tr>
     <tr>
         <td>Ultima</td>
         <td>Not in Normal</td>
-        <td>20 seconds -> Kill zombies or damage boss a lot</td>
+        <td>20 seconds -> Kill zombies on that floor or damage boss a lot</td>
         <td>-</td>
+        <td>1750 HP</td>
     </tr>
 </table>
 
