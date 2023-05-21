@@ -200,28 +200,6 @@
 </table>
 <table>
     <th></th>
-    <th>8: Wall of the intersecting bridge</th>
-    <th>9: Under the stairs of the first "bridge to elevator" door</th>
-    <th>10: Under the glass of the second "bridge to elevator" door</th>
-    <th>11: Above the elevator</th>
-    <tr>
-        <th>8 - 11 (Bridge Section)</th>
-        <td>
-            <img src="Cowbells/8.jpg"></img>
-        </td>
-        <td>
-            <img src="Cowbells/9.jpg"></img>
-        </td>
-        <td>
-            <img src="Cowbells/10.jpg"></img>
-        </td>
-        <td>
-            <img src="Cowbells/11.jpg"></img>
-        </td>
-    </tr>
-</table>
-<table>
-    <th></th>
     <th>12: After elevator to stairs</th>
     <th>13: Jump to pipe ladder</th>
     <th>14 - 15: On pipe and Boss stage</th>
