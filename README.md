@@ -78,13 +78,11 @@
 
 # Materia Locations
 <table>
-    <th></th>
-    <th></th>
-    <th></th>
     <tr>
-        <th>3 Ultima Specific Locations<br>(6/16/21)</th>
+        <th>4 Ultima Specific Locations<br>(6/12/16/21)</th>
         <th><img src="Materias/3.jpg"></th>
         <th><img src="Materias/6_ultima.jpg"></th>
+        <th><img src="Materias/11.jpg"></th>
         <th><img src="Materias/15b.jpg"></th>
         <th><img src="Materias/21.jpg"></th>
     </tr>
