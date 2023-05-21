@@ -1,6 +1,6 @@
 ## <u>Topics</u>
 ## - [Materias](#Materias)
-## - [Cowbells (Extreme II)](#Cowbells-(Extreme-II))
+## - [Cowbells (Extreme II)](#Cowbells-\(Extreme-II\))
 
 # Materias
 <table>
@@ -28,9 +28,9 @@
     </tr>
     <tr>
         <td>Wind</td>
-        <td>Slow zombies (barely push)</td>
-        <td>Push and bigger range</td>
-        <td>Pushing area around you</td>
+        <td>Small push</td>
+        <td>Big push</td>
+        <td>Tornado push</td>
     </tr>
     <tr>
         <td>Electro: Leaves area that slows and damages zombies</td>
