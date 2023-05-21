@@ -1,6 +1,6 @@
 ## <u>Topics</u>
 ## - [Materias](#Materias)
-## - [Cowbells (Extreme II)](#Cowbells-\(Extreme-II\))
+## - [Cowbells (Extreme II)](#Cowbells-Extreme-II)
 
 # Materias
 <table>
