@@ -1,6 +1,6 @@
 ## <u>Topics</u>
 ## - [Materias](#Materias)
-## - [Cowbells (Extreme II)](#Cowbells)
+## - [Cowbells (Extreme II)](#Cowbells-(Extreme-II))
 
 # Materias
 <table>
@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-# Cowbells
+# Cowbells (Extreme II)
 <table>
     <th></th>
     <th>1: Brothel (2) and Above last spawn window (1)</th>
